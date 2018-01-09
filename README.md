@@ -4,10 +4,10 @@ Blah blah
 
 ## Subtitle
 
-**Some text
+* Some thing that this does
 
 ### To do
 
-* link to **svgtag**
+* Add something else
 
 ---
